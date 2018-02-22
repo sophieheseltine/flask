@@ -1,4 +1,3 @@
-=================
 Flask
 =================
 
@@ -8,7 +7,7 @@ author: Sophie Heseltine
 Overview
 --------
 
-A project that displays the platform information of the machine it is running o$
+A project that displays the platform information of the machine it is running on
 
 
 Installation
