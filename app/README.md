@@ -30,4 +30,3 @@ From here, execute:
 
 On web browser, go to localhost:5000
 - this page will display the platform information of the machine the project is being run on
-        
