@@ -22,9 +22,7 @@ To install, first clone the repository from github:
 Usage
 -------------------
 
-Navigate to flask/app/app
-
-This folder contains the file __init__.py, which imports Flask and also the views.py file from systeminfo
+Navigate to flask/app/app, which contains the file __init__.py.
 
 From here, execute:
 
